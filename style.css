@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+form {
+  display: flex;
+  margin: 10px auto;
+  width: 96%;
+  gap: 8px;
+  align-items: center;
+}
+
+h3 {
+  margin: 0 auto;
+  width: 80%;
+}
+label {
+  font-size: 12px;
+  font-weight: 600;
+}
+
+input {
+  padding: 4px;
+  font-size: 8px;
+  border-radius: 8px;
+  border: 1px silver solid;
+}
+
+button {
+  padding: 4px;
+  font-size: 10px;
+  font-weight: 700;
+  border-radius: 8px;
+  border: 1px silver solid;
+  text-align: center;
+}
